@@ -1,7 +1,6 @@
 # Movie Database
 
-Iam a big movie fan so for my final project i wanted to have an interactive movie database gui that 
-allows users to search for moives and find information about each moive like actors,release date and ratings.
+Iam a big movie fan and wanted more practice in java so I decided to create an interactive movie database gui that allows users to search for movies and find information about each movie like actors,release date and ratings.
 
 ## Functions
 - Ability to search movies by movie title
